@@ -4,7 +4,7 @@ This project predicts whether a customer will **click on an online advertisement
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 Companies spend heavily on online ads without knowing which users are likely to click. This project applies data-driven approaches to classify customers and improve marketing efficiency.
 
 **Goals:**
@@ -14,7 +14,7 @@ Companies spend heavily on online ads without knowing which users are likely to 
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Population:** 1000 customers  
 - **Split:** 80% training, 20% testing  
 - **Balanced Data:** 500 clicked, 500 not clicked  
@@ -45,10 +45,10 @@ Companies spend heavily on online ads without knowing which users are likely to 
 
 ---
 
-## 🤖 Models & Performance
+## Models & Performance
 Performance before/after normalization:
 
-📌 **Best Model:** Logistic Regression with normalization
+**Best Model:** Logistic Regression with normalization
 
 ---
 
@@ -59,7 +59,7 @@ Performance before/after normalization:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 - Focus on **high-engagement categories** (Furniture, Travel, Electronics)  
 - Prioritize **geo-targeting** (Jakarta Selatan, Jakarta Pusat, Samarinda)  
 - Optimize **ad timing** by day/month/hour  
