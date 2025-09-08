@@ -29,7 +29,7 @@ Companies spend heavily on online ads without knowing which users are likely to 
 
 ---
 
-## 🔎 Exploratory Data Analysis
+## Exploratory Data Analysis
 - Users aged **30–40** dominate (productive group).  
 - Higher **internet usage → fewer clicks** (ad fatigue).  
 - Women clicked slightly more ads than men.  
