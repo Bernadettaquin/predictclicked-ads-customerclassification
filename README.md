@@ -37,7 +37,7 @@ Companies spend heavily on online ads without knowing which users are likely to 
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 - Missing values handled (mean/mode).  
 - Label Encoding for categorical features.  
 - Extracted year, month, day, hour, minute from timestamp.  
@@ -52,7 +52,7 @@ Performance before/after normalization:
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 - **Without ML:** Profit = Rp 24,500,000  
 - **With ML (LogReg):** Profit = Rp 43,000,000  
 - **Profit Increase:** **+75.5%** with the same ad budget  
